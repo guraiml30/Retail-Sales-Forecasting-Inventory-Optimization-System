@@ -1,0 +1,13 @@
+product_id,product_name,category,price,unit_cost,lead_time
+P001,Basmati Rice 5kg,Grocery,520,410,5
+P002,Sunflower Oil 1L,Grocery,165,135,4
+P003,Toor Dal 1kg,Grocery,160,128,6
+P004,Cold Drink 2L,Beverages,95,70,3
+P005,Packaged Juice 1L,Beverages,110,80,3
+P006,Tea Powder 500g,Beverages,280,215,5
+P007,Potato Chips,Snacks,20,14,4
+P008,Biscuits Family Pack,Snacks,60,45,4
+P009,Detergent 2kg,Household,310,240,7
+P010,Dishwash Liquid,Household,120,88,6
+P011,Face Wash,Personal Care,240,170,6
+P012,Shampoo 340ml,Personal Care,320,235,6
