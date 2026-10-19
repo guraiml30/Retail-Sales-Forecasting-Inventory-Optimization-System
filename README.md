@@ -2,7 +2,7 @@
 
 > End-to-end retail analytics project: simulated sales data -> cleaning -> EDA -> ML demand forecasting -> safety stock / reorder point / EOQ -> themed web dashboard + REST API. One command runs everything.
 
-![Dashboard](images/dashboard_home.png)
+![image alt](https://github.com/guraiml30/Retail-Sales-Forecasting-Inventory-Optimization-System/blob/bdaa87d827e01eb87f452e533a57bd68399ad851/Git1.png)
 
 ## Problem Statement
 Retailers lose money in two ways: **stockouts** (lost sales) and **overstock** (blocked cash, wastage). This project forecasts demand for every store-product pair and converts forecasts into concrete replenishment decisions.
@@ -93,5 +93,4 @@ Synthetic data; no supplier constraints; promotions not forecasted. Next: multi-
 ## Learning Outcomes
 Time-series feature engineering, leakage-safe lags, honest forecast evaluation, inventory theory, API design, dashboarding, Git workflow.
 
-## Author
-**Your Name** - [LinkedIn](https://linkedin.com/in/your-profile) - [GitHub](https://github.com/your-username)
+
